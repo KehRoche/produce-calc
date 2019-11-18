@@ -1,0 +1,3 @@
+/home/kehroche/Source/backup_code/produce-calc/build/CMakeFiles/rebuild_cache.dir
+/home/kehroche/Source/backup_code/produce-calc/build/CMakeFiles/edit_cache.dir
+/home/kehroche/Source/backup_code/produce-calc/build/CMakeFiles/objectcalc.dir
